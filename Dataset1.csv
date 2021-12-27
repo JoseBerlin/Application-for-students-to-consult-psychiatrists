@@ -1,0 +1,513 @@
+Survey ID,Age,Gender,Marital Status,Living with,Student,Present Health,Present Mental Health,Drinking and Smoking,Regular Exercise,Psychiatrist consulted,Religion,Ethnicity
+3,18,Female,Married,Partner,Student,Excellent,Excellent,4,1,Addiction psychiatrist,Buddhist,Vietnamese
+500,11,Female,Single,Parents,Student,Good,Good,3,1,Addiction psychiatrist,Buddhist,Chinese
+10011,15,Female,Single,Parents,Student,Excellent,Excellent,0,1,Child and adolescent psychiatrist,Protestant,Korean
+10012,16,Female,Single,Parents,Student,Excellent,Excellent,4,1,Addiction psychiatrist,Protestant,Chinese
+10020,16,Female,Single,Parents,Student,Good,Very Good,3,0,Addiction psychiatrist,Hindu,Chinese
+10021,18,Male,Married,Partner,Student,Very Good,Very Good,4,1,Addiction psychiatrist,Hindu,Asian Indian
+10038,12,Male,Single,Parents,Student,Very Good,Excellent,1,1,Child and adolescent psychiatrist,None,Korean
+10052,18,Female,Single,Parents,Student,Excellent,Excellent,1,0,Child and adolescent psychiatrist,None,Korean
+10053,16,Female,Single,Parents,Student,Excellent,Excellent,0,1,Child and adolescent psychiatrist,Buddhist,Korean
+10055,18,Male,Other,Partner,Student,Fair,Fair,2,0,Multi-specialty psychiatrist,None,Other
+10060,15,Male,Single,Parents,Student,Good,Fair,1,1,Multi-specialty psychiatrist,None,Other
+10061,15,Male,Single,Parents,Student,Good,Very Good,3,0,Addiction psychiatrist,Hindu,Asian Indian
+10064,17,Female,Single,Parents,Student,Very Good,Very Good,2,0,Child and adolescent psychiatrist,Protestant,Korean
+10066,13,Female,Single,Parents,Student,Excellent,Excellent,3,0,Addiction psychiatrist,Muslim,Asian Indian
+10071,18,Female,Married,Partner,Student,Very Good,Excellent,0,0,Child and adolescent psychiatrist,Protestant,Korean
+10072,18,Male,Single,Parents,Student,Excellent,Very Good,3,1,Addiction psychiatrist,Hindu,Asian Indian
+10073,13,Male,Single,Parents,Student,Good,Good,2,1,Child and adolescent psychiatrist,Protestant,Korean
+10074,12,Male,Single,Parents,Student,Excellent,Very Good,0,1,Child and adolescent psychiatrist,Protestant,Korean
+10079,18,Male,Married,Partner,Student,Good,Good,2,0,Child and adolescent psychiatrist,Protestant,Korean
+10082,11,Female,Single,Parents,Student,Very Good,Excellent,2,1,Child and adolescent psychiatrist,Protestant,Korean
+10083,17,Female,Single,Parents,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,None,Korean
+10088,16,Male,Single,Parents,Student,Good,Good,0,0,Child and adolescent psychiatrist,Buddhist,Korean
+10090,17,Female,Single,Parents,Student,Excellent,Excellent,3,1,Addiction psychiatrist,Hindu,Asian Indian
+10091,12,Male,Single,Parents,Student,Excellent,Fair,0,1,Multi-specialty psychiatrist,None,Other
+10094,14,Female,Single,Parents,Student,Excellent,Excellent,4,1,Addiction psychiatrist,Protestant,Asian Indian
+10096,14,Female,Single,Parents,Student,Excellent,Excellent,0,0,Child and adolescent psychiatrist,Protestant,Korean
+10100,15,Male,Single,Parents,Student,Good,Excellent,4,1,Addiction psychiatrist,Catholic,Vietnamese
+10102,18,Female,Married,Partner,Student,Very Good,Good,3,1,Addiction psychiatrist,Buddhist,Vietnamese
+10103,14,Female,Single,Parents,Student,Good,Excellent,1,1,Child and adolescent psychiatrist,Protestant,Korean
+10109,18,Female,Married,Partner,Student,Excellent,Excellent,3,1,Addiction psychiatrist,Catholic,Vietnamese
+10114,18,Female,Single,Parents,Student,Good,Very Good,1,1,Child and adolescent psychiatrist,Protestant,Korean
+10127,15,Male,Single,Parents,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,None,Korean
+10132,11,Female,Single,Parents,Student,Very Good,Very Good,1,0,Child and adolescent psychiatrist,None,Korean
+10135,16,Female,Single,Parents,Student,Very Good,Very Good,3,0,Addiction psychiatrist,Protestant,Filipino
+10136,13,Male,Single,Parents,Student,Very Good,Very Good,4,1,Addiction psychiatrist,Protestant,Filipino
+10146,17,Male,Single,Parents,Student,Fair,Fair,3,0,Addiction psychiatrist,Protestant,Filipino
+10147,17,Female,Single,Parents,Student,Excellent,Excellent,4,1,Addiction psychiatrist,Catholic,Filipino
+10170,16,Female,Single,Parents,Student,Fair,Fair,1,1,Multi-specialty psychiatrist,None,Other
+10177,18,Female,Married,Partner,Student,Excellent,Very Good,2,1,Addiction psychiatrist,Buddhist,Filipino
+10185,12,Female,Single,Parents,Student,Excellent,Very Good,3,1,Addiction psychiatrist,Protestant,Vietnamese
+10186,11,Female,Single,Parents,Student,Very Good,Very Good,1,1,Child and adolescent psychiatrist,None,Korean
+10188,14,Male,Single,Parents,Student,Excellent,Excellent,1,1,Child and adolescent psychiatrist,None,Vietnamese
+10189,14,Female,Single,Parents,Student,Excellent,Excellent,3,1,Addiction psychiatrist,None,Chinese
+10197,15,Male,Single,Parents,Student,Very Good,Very Good,0,0,Child and adolescent psychiatrist,Buddhist,Vietnamese
+10198,15,Female,Single,Parents,Student,Very Good,Excellent,2,1,Child and adolescent psychiatrist,Buddhist,Vietnamese
+10200,16,Female,Single,Parents,Student,Excellent,Excellent,2,0,Addiction psychiatrist,Other,Chinese
+10206,18,Female,Single,Parents,Student,Very Good,Very Good,0,0,Child and adolescent psychiatrist,None,Vietnamese
+10210,18,Male,Married,Partner,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,None,Vietnamese
+10230,13,Female,Single,Parents,Student,Very Good,Very Good,3,1,Addiction psychiatrist,Catholic,Chinese
+10231,16,Male,Single,Parents,Student,Fair,Fair,2,1,Multi-specialty psychiatrist,None,Other
+10234,18,Female,Married,Partner,Student,Very Good,Very Good,1,0,Child and adolescent psychiatrist,Protestant,Vietnamese
+10238,16,Female,Single,Parents,Student,Good,Good,1,1,Child and adolescent psychiatrist,Protestant,Vietnamese
+10245,14,Female,Single,Parents,Student,Good,Good,4,1,Addiction psychiatrist,None,Chinese
+10247,17,Male,Single,Parents,Student,Good,Good,1,1,Child and adolescent psychiatrist,Buddhist,Vietnamese
+10251,16,Male,Single,Parents,Student,Good,Very Good,4,1,Addiction psychiatrist,None,Chinese
+10257,12,Female,Single,Parents,Student,Very Good,Very Good,0,0,Child and adolescent psychiatrist,Buddhist,Vietnamese
+10259,18,Female,Other,Partner,Student,Good,Good,3,0,Addiction psychiatrist,None,Chinese
+10261,12,Female,Single,Parents,Student,Good,Excellent,4,1,Addiction psychiatrist,None,Chinese
+10262,12,Male,Single,Parents,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,None,Vietnamese
+10264,15,Female,Single,Parents,Student,Fair,Fair,0,1,Multi-specialty psychiatrist,None,Other
+10265,12,Male,Single,Parents,Student,Good,Very Good,0,0,Child and adolescent psychiatrist,Protestant,Vietnamese
+10270,18,Female,Married,Partner,Student,Excellent,Excellent,4,1,Addiction psychiatrist,None,Chinese
+10272,16,Female,Single,Parents,Student,Very Good,Very Good,1,1,Child and adolescent psychiatrist,Protestant,Vietnamese
+10275,12,Male,Single,Parents,Student,Good,Excellent,1,1,Child and adolescent psychiatrist,Protestant,Vietnamese
+10276,11,Female,Single,Parents,Student,Excellent,Excellent,1,0,Child and adolescent psychiatrist,Protestant,Vietnamese
+10282,18,Male,Single,Parents,Student,Very Good,Very Good,4,1,Addiction psychiatrist,None,Chinese
+10284,18,Female,Single,Parents,Student,Very Good,Very Good,4,1,Addiction psychiatrist,Protestant,Asian Indian
+10286,13,Female,Single,Parents,Student,Good,Good,1,1,Child and adolescent psychiatrist,Protestant,Vietnamese
+10287,13,Male,Single,Parents,Student,Excellent,Excellent,1,1,Child and adolescent psychiatrist,None,Vietnamese
+10298,16,Male,Single,Parents,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,Protestant,Vietnamese
+10299,18,Female,Married,Partner,Student,Very Good,Very Good,1,1,Child and adolescent psychiatrist,None,Vietnamese
+10304,12,Female,Single,Parents,Student,Good,Poor,2,0,Multi-specialty psychiatrist,None,Other
+10307,18,Male,Single,Parents,Student,Very Good,Very Good,3,1,Addiction psychiatrist,None,Chinese
+10314,14,Male,Single,Parents,Student,Excellent,Very Good,0,1,Child and adolescent psychiatrist,None,Vietnamese
+10315,13,Male,Single,Parents,Student,Good,Good,1,0,Child and adolescent psychiatrist,None,Vietnamese
+10319,18,Female,Married,Partner,Student,Excellent,Excellent,0,1,Child and adolescent psychiatrist,Protestant,Vietnamese
+10322,12,Male,Single,Parents,Student,Excellent,Very Good,3,1,Addiction psychiatrist,None,Chinese
+10324,13,Female,Single,Parents,Student,Good,Good,0,1,Child and adolescent psychiatrist,None,Vietnamese
+10363,18,Female,Married,Partner,Student,Excellent,Excellent,4,0,Addiction psychiatrist,None,Chinese
+10369,15,Female,Single,Parents,Student,Excellent,Excellent,3,1,Addiction psychiatrist,Protestant,Asian Indian
+10376,11,Female,Single,Parents,Student,Excellent,Excellent,1,1,Child and adolescent psychiatrist,Buddhist,Vietnamese
+10387,12,Female,Single,Parents,Student,Excellent,Excellent,0,1,Child and adolescent psychiatrist,Buddhist,Vietnamese
+10392,14,Male,Single,Parents,Student,Very Good,Good,4,0,Addiction psychiatrist,None,Chinese
+10396,13,Female,Single,Parents,Student,Fair,Very Good,4,0,Addiction psychiatrist,None,Chinese
+10419,18,Female,Married,Partner,Student,Very Good,Very Good,4,1,Addiction psychiatrist,None,Chinese
+10432,18,Male,Single,Parents,Student,Good,Good,3,0,Addiction psychiatrist,None,Chinese
+10433,16,Female,Single,Parents,Student,Excellent,Excellent,4,1,Addiction psychiatrist,None,Chinese
+10435,11,Male,Single,Parents,Student,Poor,Poor,2,0,Multi-specialty psychiatrist,None,Other
+10436,15,Female,Single,Parents,Student,Very Good,Excellent,1,1,Child and adolescent psychiatrist,None,Vietnamese
+10447,18,Female,Married,Partner,Student,Very Good,Very Good,4,1,Addiction psychiatrist,Other,Chinese
+10449,18,Male,Married,Partner,Student,Very Good,Very Good,2,0,Child and adolescent psychiatrist,None,Vietnamese
+10461,18,Male,Married,Partner,Student,Good,Good,3,1,Addiction psychiatrist,None,Chinese
+10463,18,Male,Married,Partner,Student,Good,Good,0,0,Child and adolescent psychiatrist,None,Vietnamese
+10476,18,Male,Married,Partner,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,None,Vietnamese
+10479,18,Male,Married,Partner,Student,Excellent,Excellent,0,1,Child and adolescent psychiatrist,None,Vietnamese
+10484,12,Male,Single,Parents,Student,Good,Very Good,1,1,Child and adolescent psychiatrist,None,Vietnamese
+10491,13,Male,Single,Parents,Student,Very Good,Fair,3,1,Multi-specialty psychiatrist,None,Other
+10493,17,Male,Single,Parents,Student,Excellent,Excellent,1,1,Child and adolescent psychiatrist,None,Vietnamese
+10501,16,Female,Single,Parents,Student,Excellent,Excellent,2,0,Addiction psychiatrist,None,Chinese
+10503,15,Female,Single,Parents,Student,Good,Good,2,1,Child and adolescent psychiatrist,None,Vietnamese
+10510,17,Male,Single,Parents,Student,Very Good,Good,4,1,Addiction psychiatrist,Catholic,Chinese
+10526,16,Male,Single,Parents,Student,Very Good,Very Good,1,1,Child and adolescent psychiatrist,None,Vietnamese
+10544,13,Male,Single,Parents,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,None,Vietnamese
+10551,17,Male,Single,Parents,Student,Excellent,Excellent,0,1,Child and adolescent psychiatrist,None,Vietnamese
+10554,18,Male,Married,Partner,Student,Good,Excellent,2,0,Child and adolescent psychiatrist,Buddhist,Vietnamese
+10555,14,Male,Single,Parents,Student,Excellent,Excellent,4,1,Addiction psychiatrist,None,Chinese
+10556,18,Female,Single,Parents,Student,Fair,Fair,4,0,Addiction psychiatrist,Protestant,Chinese
+10561,14,Female,Single,Parents,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,None,Vietnamese
+10562,18,Female,Married,Partner,Student,Very Good,Very Good,3,1,Addiction psychiatrist,Protestant,Chinese
+10567,11,Male,Single,Parents,Student,Fair,Very Good,4,0,Addiction psychiatrist,Protestant,Chinese
+10568,18,Female,Married,Partner,Student,Good,Good,2,1,Child and adolescent psychiatrist,None,Vietnamese
+10572,14,Male,Single,Parents,Student,Very Good,Very Good,4,0,Addiction psychiatrist,None,Chinese
+10577,18,Female,Married,Partner,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,None,Vietnamese
+10590,15,Male,Single,Parents,Student,Good,Good,2,0,Child and adolescent psychiatrist,None,Vietnamese
+10591,14,Male,Single,Parents,Student,Poor,Excellent,3,0,Multi-specialty psychiatrist,Muslim,Other
+10593,11,Female,Single,Parents,Student,Excellent,Excellent,0,1,Child and adolescent psychiatrist,None,Vietnamese
+10594,18,Male,Married,Partner,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,None,Vietnamese
+10595,18,Female,Single,Parents,Student,Good,Very Good,1,1,Child and adolescent psychiatrist,None,Vietnamese
+10598,18,Female,Married,Partner,Student,Very Good,Very Good,4,0,Addiction psychiatrist,Catholic,Chinese
+10601,18,Female,Single,Parents,Student,Very Good,Excellent,0,0,Child and adolescent psychiatrist,Buddhist,Filipino
+10606,18,Female,Married,Partner,Student,Excellent,Excellent,4,1,Addiction psychiatrist,Buddhist,Chinese
+10607,18,Female,Married,Partner,Student,Good,Very Good,3,1,Addiction psychiatrist,Muslim,Chinese
+10611,15,Female,Single,Parents,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,None,Filipino
+10616,13,Male,Single,Parents,Student,Very Good,Good,0,1,Child and adolescent psychiatrist,None,Filipino
+10628,13,Male,Single,Parents,Student,Fair,Fair,1,0,Multi-specialty psychiatrist,Muslim,Other
+10636,18,Female,Single,Parents,Student,Very Good,Very Good,4,1,Addiction psychiatrist,Buddhist,Chinese
+10638,18,Male,Single,Parents,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,Catholic,Filipino
+10640,18,Male,Married,Partner,Student,Good,Very Good,1,1,Child and adolescent psychiatrist,Buddhist,Filipino
+10642,18,Male,Married,Partner,Student,Very Good,Good,2,1,Child and adolescent psychiatrist,Buddhist,Filipino
+10643,16,Male,Single,Parents,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,Protestant,Filipino
+10682,14,Female,Single,Parents,Student,Good,Good,2,1,Child and adolescent psychiatrist,Hindu,Filipino
+10684,11,Male,Single,Parents,Student,Very Good,Good,1,1,Child and adolescent psychiatrist,Hindu,Filipino
+10702,18,Male,Single,Parents,Student,Very Good,Very Good,3,0,Addiction psychiatrist,None,Chinese
+10706,18,Male,Married,Partner,Student,Very Good,Very Good,4,0,Addiction psychiatrist,Protestant,Chinese
+10723,18,Female,Married,Partner,Student,Good,Very Good,3,0,Addiction psychiatrist,Buddhist,Chinese
+10748,18,Female,Single,Parents,Student,Excellent,Excellent,3,0,Addiction psychiatrist,Buddhist,Chinese
+10749,18,Male,Other,Partner,Student,Very Good,Very Good,1,0,Child and adolescent psychiatrist,Hindu,Filipino
+10757,13,Male,Single,Parents,Student,Excellent,Excellent,2,1,Addiction psychiatrist,Buddhist,Chinese
+10764,13,Female,Single,Parents,Student,Excellent,Excellent,2,1,Addiction psychiatrist,None,Chinese
+10765,18,Male,Married,Partner,Student,Very Good,Very Good,3,1,Addiction psychiatrist,Hindu,Chinese
+10774,18,Male,Married,Partner,Student,Good,Good,2,1,Child and adolescent psychiatrist,Muslim,Filipino
+10778,18,Male,Married,Partner,Student,Very Good,Good,3,1,Addiction psychiatrist,None,Chinese
+10783,11,Male,Single,Parents,Student,Excellent,Good,0,0,Child and adolescent psychiatrist,Hindu,Filipino
+10784,16,Male,Single,Parents,Student,Excellent,Excellent,1,1,Child and adolescent psychiatrist,Hindu,Filipino
+10801,18,Male,Married,Partner,Student,Very Good,Excellent,2,1,Child and adolescent psychiatrist,Protestant,Filipino
+10810,18,Male,Married,Partner,Student,Excellent,Very Good,0,0,Child and adolescent psychiatrist,Catholic,Filipino
+10819,17,Male,Single,Parents,Student,Excellent,Excellent,1,1,Child and adolescent psychiatrist,Buddhist,Filipino
+10820,13,Male,Single,Parents,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,Catholic,Filipino
+10822,15,Female,Single,Parents,Student,Excellent,Good,2,0,Addiction psychiatrist,None,Chinese
+10828,11,Male,Single,Parents,Student,Very Good,Excellent,2,0,Child and adolescent psychiatrist,Protestant,Filipino
+10848,17,Male,Single,Parents,Student,Good,Fair,2,0,Multi-specialty psychiatrist,Other,Other
+10856,12,Male,Single,Parents,Student,Excellent,Excellent,4,1,Addiction psychiatrist,Buddhist,Chinese
+10870,15,Male,Single,Parents,Student,Excellent,Excellent,0,1,Child and adolescent psychiatrist,Protestant,Filipino
+10902,13,Female,Single,Parents,Student,Very Good,Very Good,1,1,Child and adolescent psychiatrist,Protestant,Filipino
+10907,18,Female,Married,Partner,Student,Very Good,Very Good,1,1,Child and adolescent psychiatrist,Catholic,Filipino
+10909,14,Female,Single,Parents,Student,Good,Excellent,2,0,Child and adolescent psychiatrist,Buddhist,Filipino
+10910,13,Male,Single,Parents,Student,Good,Good,2,0,Child and adolescent psychiatrist,,Filipino
+10918,18,Male,Married,Partner,Student,Excellent,Excellent,2,1,Addiction psychiatrist,Hindu,Chinese
+10919,16,Female,Single,Parents,Student,Very Good,Good,4,0,Addiction psychiatrist,None,Chinese
+10919,18,Male,Other,Partner,Student,Excellent,Excellent,1,1,Child and adolescent psychiatrist,,Filipino
+10922,18,Female,Married,Partner,Student,Very Good,Very Good,0,0,Child and adolescent psychiatrist,Protestant,Filipino
+10924,11,Male,Single,Parents,Student,Excellent,Fair,4,1,Multi-specialty psychiatrist,None,Other
+10926,16,Male,Single,Parents,Student,Very Good,Excellent,2,1,Child and adolescent psychiatrist,None,Filipino
+10933,13,Female,Single,Parents,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,Other,Filipino
+10935,18,Male,Single,Parents,Student,Excellent,Excellent,3,1,Addiction psychiatrist,None,Chinese
+10938,18,Female,Married,Partner,Student,Excellent,Excellent,2,0,Addiction psychiatrist,None,Chinese
+10947,18,Male,Single,Parents,Student,Very Good,Very Good,0,0,Child and adolescent psychiatrist,Catholic,Filipino
+10949,18,Female,Married,Partner,Student,Very Good,Very Good,3,0,Addiction psychiatrist,Catholic,Chinese
+10952,18,Female,Married,Partner,Student,Fair,Good,1,0,Multi-specialty psychiatrist,None,Other
+10955,18,Female,Single,Parents,Student,Good,Good,4,1,Addiction psychiatrist,None,Chinese
+10956,11,Male,Single,Parents,Student,Very Good,Very Good,0,0,Child and adolescent psychiatrist,None,Filipino
+10958,18,Male,Single,Parents,Student,Fair,Fair,4,1,Addiction psychiatrist,None,Chinese
+10971,14,Female,Single,Parents,Student,Very Good,Very Good,3,1,Addiction psychiatrist,None,Chinese
+10976,18,Female,Single,Parents,Student,Good,Very Good,2,0,Child and adolescent psychiatrist,None,Filipino
+10980,16,Female,Single,Parents,Student,Excellent,Excellent,4,1,Addiction psychiatrist,Buddhist,Chinese
+10997,18,Male,Married,Partner,Student,Good,Very Good,2,0,Child and adolescent psychiatrist,None,Filipino
+10999,18,Male,Married,Partner,Student,Good,Good,1,0,Child and adolescent psychiatrist,None,Filipino
+11000,18,Male,Married,Partner,Student,Good,Excellent,1,1,Child and adolescent psychiatrist,None,Filipino
+11004,18,Male,Married,Partner,Student,Good,Excellent,3,0,Addiction psychiatrist,Buddhist,Chinese
+11006,18,Male,Married,Partner,Student,Good,Good,0,0,Child and adolescent psychiatrist,,Filipino
+11011,18,Female,Married,Partner,Student,Very Good,Excellent,2,1,Child and adolescent psychiatrist,None,Filipino
+11021,18,Female,Married,Partner,Student,Very Good,Excellent,0,0,Child and adolescent psychiatrist,Protestant,Filipino
+11022,18,Female,Married,Partner,Student,Very Good,Very Good,4,0,Addiction psychiatrist,None,Chinese
+11025,15,Female,Single,Parents,Student,Very Good,Very Good,3,0,Addiction psychiatrist,None,Chinese
+11034,18,Male,Married,Partner,Student,Very Good,Very Good,0,0,Child and adolescent psychiatrist,None,Filipino
+11043,18,Female,Married,Partner,Student,Very Good,Very Good,3,1,Addiction psychiatrist,None,Chinese
+11047,18,Male,Married,Partner,Student,Very Good,Very Good,4,1,Addiction psychiatrist,None,Chinese
+11071,16,Male,Single,Parents,Student,Excellent,Excellent,0,1,Child and adolescent psychiatrist,None,Filipino
+11072,11,Male,Single,Parents,Student,Very Good,Very Good,4,1,Addiction psychiatrist,None,Chinese
+11074,12,Female,Single,Parents,Student,Good,Very Good,4,0,Addiction psychiatrist,None,Chinese
+11078,13,Female,Single,Parents,Student,Poor,Poor,3,0,Multi-specialty psychiatrist,None,Other
+11092,14,Female,Single,Parents,Student,Very Good,Excellent,4,0,Addiction psychiatrist,None,Chinese
+11098,13,Female,Single,Parents,Student,Very Good,Good,2,0,Child and adolescent psychiatrist,None,Filipino
+11099,18,Female,Married,Partner,Student,Excellent,Excellent,4,1,Addiction psychiatrist,None,Chinese
+11100,16,Female,Single,Parents,Student,Good,Good,0,1,Child and adolescent psychiatrist,Protestant,Filipino
+11101,14,Female,Single,Parents,Student,Excellent,Excellent,4,1,Addiction psychiatrist,None,Chinese
+11109,16,Female,Single,Parents,Student,Excellent,Good,3,0,Addiction psychiatrist,None,Asian Indian
+11115,11,Female,Single,Parents,Student,Very Good,Very Good,4,0,Addiction psychiatrist,None,Asian Indian
+11119,16,Female,Single,Parents,Student,Poor,Poor,3,1,Multi-specialty psychiatrist,None,Other
+11124,18,Female,Single,Parents,Student,Excellent,Excellent,2,1,Addiction psychiatrist,None,Asian Indian
+11129,11,Male,Single,Parents,Student,Very Good,Good,4,1,Addiction psychiatrist,None,Asian Indian
+11131,18,Male,Married,Partner,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,None,Filipino
+11133,18,Female,Single,Parents,Student,Excellent,Excellent,3,1,Addiction psychiatrist,None,Asian Indian
+11156,16,Male,Single,Parents,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,None,Filipino
+11159,18,Male,Other,Partner,Student,Poor,Good,1,1,Multi-specialty psychiatrist,None,Other
+11160,18,Female,Single,Parents,Student,Excellent,Excellent,4,1,Addiction psychiatrist,None,Asian Indian
+11170,15,Female,Single,Parents,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,None,Filipino
+11175,18,Male,Married,Partner,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,None,Filipino
+11186,15,Female,Single,Parents,Student,Excellent,Excellent,0,1,Child and adolescent psychiatrist,None,Filipino
+19999,17,Male,Single,Parents,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,Other,Filipino
+20003,18,Male,Married,Partner,Student,Poor,Poor,4,0,Multi-specialty psychiatrist,None,Other
+20017,18,Male,Married,Partner,Student,Very Good,Very Good,1,1,Child and adolescent psychiatrist,None,Filipino
+20023,18,Male,Married,Partner,Student,Good,Very Good,4,1,Addiction psychiatrist,None,Asian Indian
+20027,18,Female,Other,Partner,Student,Very Good,Good,3,1,Addiction psychiatrist,None,Asian Indian
+20030,18,Female,Married,Partner,Student,Excellent,Excellent,0,1,Child and adolescent psychiatrist,None,Filipino
+20032,18,Female,Other,Partner,Student,Fair,Fair,2,0,Multi-specialty psychiatrist,None,Other
+20033,18,Male,Married,Partner,Student,Good,Excellent,4,0,Addiction psychiatrist,Protestant,Asian Indian
+20044,18,Female,Married,Partner,Student,Excellent,Excellent,4,0,Addiction psychiatrist,Buddhist,Asian Indian
+20054,18,Female,Married,Partner,Student,Fair,Good,0,1,Multi-specialty psychiatrist,Protestant,Other
+21010,18,Male,Married,Partner,Student,Poor,Excellent,1,0,Multi-specialty psychiatrist,Catholic,Other
+21030,18,Male,Married,Partner,Student,Fair,Good,2,0,Multi-specialty psychiatrist,Buddhist,Other
+21041,18,Female,Married,Partner,Student,Good,Good,1,1,Child and adolescent psychiatrist,Catholic,Filipino
+30013,18,Male,Married,Partner,Student,Good,Good,0,0,Child and adolescent psychiatrist,None,Filipino
+40002,15,Female,Single,Parents,Student,Excellent,Excellent,3,1,Addiction psychiatrist,None,Asian Indian
+40010,12,Female,Single,Parents,Student,Excellent,Good,2,1,Addiction psychiatrist,None,Asian Indian
+40017,12,Male,Single,Parents,Student,Excellent,Very Good,0,1,Child and adolescent psychiatrist,Protestant,Filipino
+40018,16,Male,Single,Parents,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,Protestant,Filipino
+40020,12,Male,Single,Parents,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,Protestant,Filipino
+40120,18,Female,Married,Partner,Student,Very Good,Very Good,1,1,Child and adolescent psychiatrist,None,Filipino
+40134,12,Female,Single,Parents,Student,Excellent,Excellent,2,1,Addiction psychiatrist,Protestant,Asian Indian
+40138,12,Male,Single,Parents,Student,Very Good,Very Good,1,1,Child and adolescent psychiatrist,Catholic,Filipino
+40140,16,Male,Single,Parents,Student,Fair,Fair,0,1,Multi-specialty psychiatrist,Protestant,Other
+40145,12,Male,Single,Parents,Student,Excellent,Excellent,1,1,Child and adolescent psychiatrist,Buddhist,Filipino
+40146,18,Male,Single,Parents,Student,Excellent,Excellent,3,1,Addiction psychiatrist,Protestant,Asian Indian
+40155,18,Female,Married,Partner,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,Muslim,Filipino
+40175,12,Female,Single,Parents,Student,Excellent,Poor,4,1,Multi-specialty psychiatrist,Buddhist,Other
+40176,15,Female,Single,Parents,Student,Excellent,Excellent,2,1,Addiction psychiatrist,None,Asian Indian
+40177,17,Female,Single,Parents,Student,Fair,Good,3,1,Addiction psychiatrist,None,Asian Indian
+40179,18,Male,Single,Parents,Student,Good,Good,1,1,Child and adolescent psychiatrist,Buddhist,Filipino
+40180,18,Male,Single,Parents,Student,Fair,Very Good,3,1,Addiction psychiatrist,None,Asian Indian
+40181,16,Male,Single,Parents,Student,Very Good,Very Good,1,0,Child and adolescent psychiatrist,None,Filipino
+40183,16,Male,Single,Parents,Student,Fair,Fair,2,0,Multi-specialty psychiatrist,None,Other
+40187,14,Female,Single,Parents,Student,Excellent,Excellent,2,1,Addiction psychiatrist,None,Asian Indian
+40189,12,Female,Single,Parents,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,Protestant,Filipino
+40193,14,Male,Single,Parents,Student,Very Good,Fair,2,1,Multi-specialty psychiatrist,Buddhist,Other
+40195,18,Female,Married,Partner,Student,Good,Good,1,1,Child and adolescent psychiatrist,Buddhist,Filipino
+40200,18,Female,Married,Partner,Student,Excellent,Very Good,1,1,Child and adolescent psychiatrist,Buddhist,Filipino
+40211,18,Female,Single,Parents,Student,Excellent,Excellent,2,1,Addiction psychiatrist,None,Asian Indian
+40217,13,Male,Single,Parents,Student,Excellent,Excellent,1,1,Child and adolescent psychiatrist,Buddhist,Filipino
+40224,16,Male,Single,Parents,Student,Very Good,Fair,2,0,Multi-specialty psychiatrist,Buddhist,Other
+40231,18,Female,Married,Partner,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,,Filipino
+40244,13,Male,Single,Parents,Student,Very Good,Good,2,1,Child and adolescent psychiatrist,None,Filipino
+40253,14,Female,Single,Parents,Student,Good,Good,4,1,Addiction psychiatrist,Buddhist,Asian Indian
+40255,14,Female,Single,Parents,Student,Good,Good,1,1,Child and adolescent psychiatrist,Protestant,Filipino
+40270,16,Male,Single,Parents,Student,Excellent,Very Good,4,1,Addiction psychiatrist,Catholic,Asian Indian
+49999,18,Male,Married,Partner,Student,Excellent,Excellent,3,1,Addiction psychiatrist,None,Asian Indian
+50012,17,Male,Single,Parents,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,None,Filipino
+50026,18,Female,Married,Partner,Student,Very Good,Excellent,0,0,Child and adolescent psychiatrist,None,Filipino
+50030,17,Female,Single,Parents,Student,Good,Good,3,1,Addiction psychiatrist,None,Asian Indian
+50032,15,Female,Single,Parents,Student,Fair,Fair,0,1,Multi-specialty psychiatrist,Protestant,Other
+50036,18,Male,Married,Partner,Student,Good,Excellent,2,0,Child and adolescent psychiatrist,None,Filipino
+50055,18,Male,Married,Partner,Student,Good,Very Good,0,0,Child and adolescent psychiatrist,Protestant,Filipino
+50058,18,Male,Married,Partner,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,None,Filipino
+50073,15,Female,Single,Parents,Student,Fair,Fair,3,1,Addiction psychiatrist,None,Asian Indian
+50081,18,Female,Married,Partner,Student,Good,Good,4,1,Addiction psychiatrist,None,Asian Indian
+50082,12,Female,Single,Parents,Student,Excellent,Excellent,0,0,Child and adolescent psychiatrist,None,Filipino
+50088,13,Male,Single,Parents,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,Protestant,Filipino
+50105,15,Female,Single,Parents,Student,Good,Good,3,1,Addiction psychiatrist,None,Asian Indian
+50106,14,Female,Single,Parents,Student,Fair,Fair,2,0,Multi-specialty psychiatrist,Protestant,Other
+50112,15,Male,Single,Parents,Student,Very Good,Very Good,2,0,Child and adolescent psychiatrist,None,Filipino
+50122,13,Female,Single,Parents,Student,Very Good,Very Good,3,1,Addiction psychiatrist,None,Asian Indian
+50149,12,Male,Single,Parents,Student,Very Good,Good,1,1,Child and adolescent psychiatrist,,Filipino
+50159,16,Male,Single,Parents,Student,Good,Very Good,3,1,Addiction psychiatrist,None,Asian Indian
+50162,11,Female,Single,Parents,Student,Fair,Fair,2,1,Multi-specialty psychiatrist,Protestant,Other
+50164,18,Male,Married,Partner,Student,Good,Good,2,1,Child and adolescent psychiatrist,None,Filipino
+50173,11,Male,Single,Parents,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,None,Filipino
+50176,18,Female,Married,Partner,Student,Very Good,Very Good,4,0,Addiction psychiatrist,None,Asian Indian
+50182,18,Male,Married,Partner,Student,Very Good,Very Good,2,0,Child and adolescent psychiatrist,None,Filipino
+50193,12,Male,Single,Parents,Student,Very Good,Very Good,4,1,Addiction psychiatrist,None,Asian Indian
+50218,17,Male,Single,Parents,Student,Good,Good,3,1,Addiction psychiatrist,None,Asian Indian
+50224,12,Female,Single,Parents,Student,Good,Good,1,1,Child and adolescent psychiatrist,None,Filipino
+50230,16,Female,Single,Parents,Student,Excellent,Very Good,3,0,Addiction psychiatrist,Buddhist,Asian Indian
+50276,11,Male,Single,Parents,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,None,Filipino
+50278,14,Male,Single,Parents,Student,Good,Good,4,0,Addiction psychiatrist,None,Asian Indian
+50297,17,Female,Single,Parents,Student,Very Good,Excellent,4,1,Addiction psychiatrist,None,Asian Indian
+50307,11,Female,Single,Parents,Student,Good,Good,0,1,Child and adolescent psychiatrist,None,Filipino
+50319,14,Female,Single,Parents,Student,Fair,Good,3,0,Addiction psychiatrist,None,Asian Indian
+60003,15,Female,Single,Parents,Student,Very Good,Good,4,1,Addiction psychiatrist,Protestant,Asian Indian
+60014,17,Female,Single,Parents,Student,Excellent,Excellent,2,0,Addiction psychiatrist,None,Asian Indian
+60020,18,Female,Married,Partner,Student,Very Good,Very Good,0,0,Child and adolescent psychiatrist,None,Filipino
+60033,18,Female,Married,Partner,Student,Very Good,Very Good,0,0,Child and adolescent psychiatrist,None,Filipino
+60034,18,Male,Married,Partner,Student,Very Good,Very Good,1,1,Child and adolescent psychiatrist,None,Filipino
+60052,11,Female,Single,Parents,Student,Good,Good,4,0,Addiction psychiatrist,None,Asian Indian
+60055,17,Female,Single,Parents,Student,Good,Good,2,0,Child and adolescent psychiatrist,None,Filipino
+60056,11,Female,Single,Parents,Student,Very Good,Very Good,1,0,Child and adolescent psychiatrist,None,Filipino
+60069,17,Male,Single,Parents,Student,Fair,Fair,3,0,Addiction psychiatrist,None,Asian Indian
+60070,13,Female,Single,Parents,Student,Good,Good,4,0,Addiction psychiatrist,None,Asian Indian
+60073,17,Female,Single,Parents,Student,Very Good,Good,1,1,Child and adolescent psychiatrist,None,Filipino
+60076,13,Female,Single,Parents,Student,Very Good,Good,2,1,Child and adolescent psychiatrist,None,Filipino
+60087,14,Male,Single,Parents,Student,Excellent,Excellent,4,0,Addiction psychiatrist,None,Asian Indian
+60092,13,Female,Single,Parents,Student,Very Good,Very Good,2,0,Child and adolescent psychiatrist,None,Filipino
+60095,15,Female,Single,Parents,Student,Good,Good,1,0,Child and adolescent psychiatrist,None,Filipino
+60096,11,Female,Single,Parents,Student,Good,Good,1,1,Child and adolescent psychiatrist,None,Filipino
+60105,17,Female,Single,Parents,Student,Poor,Good,2,0,Multi-specialty psychiatrist,Protestant,Other
+60110,15,Female,Single,Parents,Student,Good,Good,1,1,Child and adolescent psychiatrist,None,Filipino
+60111,12,Male,Single,Parents,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,None,Filipino
+60115,14,Male,Single,Parents,Student,Very Good,Good,4,1,Addiction psychiatrist,None,Asian Indian
+60125,16,Male,Single,Parents,Student,Good,Good,4,0,Addiction psychiatrist,None,Asian Indian
+60127,18,Male,Married,Partner,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,None,Filipino
+60133,16,Female,Single,Parents,Student,Very Good,Very Good,4,0,Addiction psychiatrist,None,Asian Indian
+60150,12,Female,Single,Parents,Student,Poor,Fair,1,0,Multi-specialty psychiatrist,Protestant,Other
+60160,15,Male,Single,Parents,Student,Very Good,Excellent,1,1,Child and adolescent psychiatrist,,Filipino
+60165,18,Male,Married,Partner,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,None,Filipino
+60190,18,Female,Married,Partner,Student,Fair,Fair,3,1,Addiction psychiatrist,None,Asian Indian
+60203,18,Female,Married,Partner,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,Hindu,Filipino
+60209,18,Female,Married,Partner,Student,Very Good,Very Good,3,1,Addiction psychiatrist,None,Asian Indian
+60240,18,Female,Married,Partner,Student,Very Good,Very Good,4,1,Addiction psychiatrist,None,Asian Indian
+60241,18,Female,Married,Partner,Student,Good,Fair,4,1,Multi-specialty psychiatrist,Protestant,Other
+60253,15,Male,Single,Parents,Student,Excellent,Excellent,2,1,Addiction psychiatrist,None,Asian Indian
+60901,18,Female,Married,Partner,Student,Very Good,Very Good,4,1,Addiction psychiatrist,None,Asian Indian
+70010,18,Female,Married,Partner,Student,Excellent,Excellent,2,0,Addiction psychiatrist,None,Asian Indian
+70033,18,Male,Married,Partner,Student,Excellent,Excellent,0,1,Child and adolescent psychiatrist,None,Filipino
+70055,16,Male,Single,Parents,Student,Good,Good,4,1,Addiction psychiatrist,None,Asian Indian
+70105,12,Male,Single,Parents,Student,Excellent,Excellent,4,0,Addiction psychiatrist,None,Asian Indian
+70106,12,Male,Single,Parents,Student,Very Good,Very Good,3,0,Addiction psychiatrist,None,Asian Indian
+70108,11,Female,Single,Parents,Student,Very Good,Good,1,1,Child and adolescent psychiatrist,None,Filipino
+70116,11,Female,Single,Parents,Student,Good,Good,1,1,Child and adolescent psychiatrist,Buddhist,Filipino
+70204,17,Female,Single,Parents,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,Hindu,Filipino
+70215,18,Female,Married,Partner,Student,Very Good,Very Good,1,1,Child and adolescent psychiatrist,None,Filipino
+70219,18,Male,Married,Partner,Student,Excellent,Excellent,0,0,Child and adolescent psychiatrist,None,Filipino
+70225,14,Female,Single,Parents,Student,Excellent,Very Good,3,0,Addiction psychiatrist,None,Asian Indian
+70229,13,Female,Single,Parents,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,None,Filipino
+70245,16,Male,Single,Parents,Student,Very Good,Excellent,1,1,Child and adolescent psychiatrist,Catholic,Filipino
+70263,13,Female,Single,Parents,Student,Good,Good,0,0,Child and adolescent psychiatrist,None,Filipino
+70269,18,Male,Married,Partner,Student,Good,Very Good,1,0,Child and adolescent psychiatrist,None,Filipino
+70270,18,Female,Married,Partner,Student,Good,Excellent,3,1,Addiction psychiatrist,None,Asian Indian
+70275,18,Male,Married,Partner,Student,Good,Excellent,0,0,Child and adolescent psychiatrist,None,Other
+70306,18,Female,Married,Partner,Student,Good,Good,4,0,Addiction psychiatrist,None,Asian Indian
+70323,18,Male,Married,Partner,Student,Very Good,Very Good,2,0,Child and adolescent psychiatrist,Buddhist,Other
+70327,15,Female,Single,Parents,Student,Very Good,Very Good,3,0,Addiction psychiatrist,None,Asian Indian
+70341,18,Female,Single,Parents,Student,Very Good,Excellent,1,1,Child and adolescent psychiatrist,Buddhist,Other
+70353,12,Male,Single,Parents,Student,Good,Good,3,0,Addiction psychiatrist,None,Asian Indian
+70368,18,Female,Married,Partner,Student,Very Good,Very Good,4,0,Addiction psychiatrist,None,Asian Indian
+70378,11,Female,Single,Parents,Student,Excellent,Excellent,1,1,Child and adolescent psychiatrist,None,Other
+70386,13,Male,Single,Parents,Student,Excellent,Excellent,3,1,Addiction psychiatrist,None,Asian Indian
+70399,17,Male,Single,Parents,Student,Very Good,Very Good,0,0,Child and adolescent psychiatrist,None,Other
+70400,12,Male,Single,Parents,Student,Excellent,Excellent,2,0,Addiction psychiatrist,None,Asian Indian
+70407,16,Female,Single,Parents,Student,Very Good,Very Good,3,1,Addiction psychiatrist,None,Asian Indian
+70427,15,Female,Single,Parents,Student,Excellent,Excellent,0,0,Child and adolescent psychiatrist,None,Other
+70453,18,Female,Married,Partner,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,None,Other
+70454,18,Female,Married,Partner,Student,Very Good,Very Good,0,0,Child and adolescent psychiatrist,None,Other
+70477,18,Female,Married,Partner,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,None,Other
+70497,18,Male,Married,Partner,Student,Very Good,Very Good,1,0,Child and adolescent psychiatrist,None,Other
+70498,12,Female,Single,Parents,Student,Good,Good,2,0,Child and adolescent psychiatrist,None,Other
+70499,18,Female,Married,Partner,Student,Good,Very Good,2,1,Child and adolescent psychiatrist,None,Other
+70509,18,Male,Married,Partner,Student,Very Good,Very Good,4,1,Addiction psychiatrist,Protestant,Asian Indian
+70515,13,Female,Single,Parents,Student,Very Good,Very Good,1,0,Child and adolescent psychiatrist,None,Other
+70516,16,Female,Single,Parents,Student,Excellent,Very Good,4,0,Addiction psychiatrist,Protestant,Asian Indian
+80002,13,Female,Single,Parents,Student,Fair,Fair,3,1,Addiction psychiatrist,Buddhist,Asian Indian
+80004,18,Female,Married,Partner,Student,Good,Good,2,1,Child and adolescent psychiatrist,None,Other
+80008,12,Female,Single,Parents,Student,Very Good,Very Good,0,0,Child and adolescent psychiatrist,None,Other
+80015,13,Male,Single,Parents,Student,Very Good,Very Good,3,1,Addiction psychiatrist,Protestant,Asian Indian
+80024,11,Male,Single,Parents,Student,Excellent,Very Good,0,1,Child and adolescent psychiatrist,None,Other
+80027,18,Male,Single,Parents,Student,Good,Good,1,1,Child and adolescent psychiatrist,None,Other
+80029,13,Female,Single,Parents,Student,Good,Fair,4,1,Multi-specialty psychiatrist,Protestant,Other
+80032,15,Male,Single,Parents,Student,Good,Good,1,0,Child and adolescent psychiatrist,None,Other
+80037,15,Female,Single,Parents,Student,Very Good,Very Good,0,0,Child and adolescent psychiatrist,None,Other
+80040,14,Male,Single,Parents,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,,Other
+80041,16,Male,Single,Parents,Student,Very Good,Excellent,3,1,Addiction psychiatrist,None,Asian Indian
+80042,14,Female,Single,Parents,Student,Very Good,Very Good,4,0,Addiction psychiatrist,Buddhist,Asian Indian
+80054,14,Female,Single,Parents,Student,Excellent,Excellent,3,1,Addiction psychiatrist,None,Asian Indian
+80055,18,Male,Married,Partner,Student,Very Good,Very Good,1,1,Child and adolescent psychiatrist,None,Other
+80057,18,Female,Married,Partner,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,Protestant,Other
+80058,18,Female,Married,Partner,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,Buddhist,Other
+80060,14,Female,Single,Parents,Student,Very Good,Poor,1,1,Multi-specialty psychiatrist,Protestant,Other
+80061,11,Female,Single,Parents,Student,Good,Good,4,0,Addiction psychiatrist,None,Asian Indian
+80065,18,Female,Other,Partner,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,None,Other
+80075,14,Female,Single,Parents,Student,Excellent,Excellent,3,0,Addiction psychiatrist,Protestant,Asian Indian
+80078,15,Female,Single,Parents,Student,Good,Good,2,0,Child and adolescent psychiatrist,None,Other
+80079,15,Male,Single,Parents,Student,Very Good,Very Good,1,1,Child and adolescent psychiatrist,Protestant,Other
+80086,18,Female,Married,Partner,Student,Very Good,Very Good,3,1,Addiction psychiatrist,None,Asian Indian
+80091,18,Female,Married,Partner,Student,Very Good,Very Good,3,1,Addiction psychiatrist,Protestant,Asian Indian
+80102,12,Female,Single,Parents,Student,Excellent,Excellent,2,0,Addiction psychiatrist,None,Asian Indian
+80104,13,Female,Single,Parents,Student,Very Good,Very Good,2,0,Child and adolescent psychiatrist,Protestant,Other
+80139,18,Female,Married,Partner,Student,Excellent,Excellent,1,1,Child and adolescent psychiatrist,None,Other
+80140,18,Female,Married,Partner,Student,Excellent,Excellent,2,1,Addiction psychiatrist,Protestant,Asian Indian
+80143,15,Female,Single,Parents,Student,Fair,Fair,4,0,Addiction psychiatrist,Protestant,Asian Indian
+80152,18,Female,Married,Partner,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,None,Other
+80154,16,Female,Single,Parents,Student,Very Good,Good,2,1,Child and adolescent psychiatrist,None,Other
+80157,18,Female,Married,Partner,Student,Good,Good,4,0,Addiction psychiatrist,Protestant,Asian Indian
+80164,18,Male,Married,Partner,Student,Excellent,Excellent,4,0,Addiction psychiatrist,None,Asian Indian
+80168,16,Female,Single,Parents,Student,Excellent,Excellent,0,1,Child and adolescent psychiatrist,None,Other
+80171,16,Male,Single,Parents,Student,Good,Good,1,1,Child and adolescent psychiatrist,None,Other
+80180,11,Female,Single,Parents,Student,Very Good,Very Good,3,0,Addiction psychiatrist,None,Asian Indian
+80181,15,Female,Single,Parents,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,Buddhist,Other
+80183,17,Female,Single,Parents,Student,Fair,Very Good,4,1,Addiction psychiatrist,None,Korean
+80191,14,Male,Single,Parents,Student,Excellent,Excellent,1,1,Child and adolescent psychiatrist,Catholic,Other
+80212,12,Male,Single,Parents,Student,Very Good,Good,4,1,Addiction psychiatrist,None,Korean
+80218,12,Female,Single,Parents,Student,Very Good,Very Good,3,1,Addiction psychiatrist,None,Korean
+80225,16,Female,Single,Parents,Student,Fair,Fair,1,0,Multi-specialty psychiatrist,None,Other
+80233,18,Male,Married,Partner,Student,Very Good,Very Good,1,1,Child and adolescent psychiatrist,None,Other
+80237,11,Female,Single,Parents,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,None,Other
+80249,17,Male,Single,Parents,Student,Excellent,Excellent,4,1,Addiction psychiatrist,None,Korean
+80254,18,Female,Married,Partner,Student,Excellent,Excellent,0,1,Child and adolescent psychiatrist,None,Other
+80257,18,Female,Single,Parents,Student,Excellent,Excellent,0,1,Child and adolescent psychiatrist,None,Other
+80287,12,Male,Single,Parents,Student,Fair,Poor,3,1,Addiction psychiatrist,None,Korean
+80313,15,Male,Single,Parents,Student,Very Good,Very Good,3,1,Addiction psychiatrist,None,Korean
+80323,18,Female,Single,Parents,Student,Excellent,Excellent,2,0,Addiction psychiatrist,None,Korean
+80333,11,Male,Single,Parents,Student,Excellent,Excellent,0,1,Child and adolescent psychiatrist,None,Other
+80354,15,Female,Single,Parents,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,None,Other
+80364,11,Female,Single,Parents,Student,Good,Good,2,1,Child and adolescent psychiatrist,None,Other
+80365,18,Male,Other,Partner,Student,Good,Very Good,2,0,Child and adolescent psychiatrist,None,Other
+80379,17,Female,Single,Parents,Student,Fair,Fair,4,1,Addiction psychiatrist,None,Korean
+80380,16,Female,Single,Parents,Student,Fair,Fair,3,1,Addiction psychiatrist,Muslim,Korean
+80384,12,Male,Single,Parents,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,None,Other
+80397,18,Female,Married,Partner,Student,Very Good,Very Good,4,0,Addiction psychiatrist,Muslim,Korean
+80412,16,Male,Single,Parents,Student,Excellent,Very Good,0,0,Child and adolescent psychiatrist,None,Other
+80424,18,Male,Single,Parents,Student,Good,Very Good,3,0,Addiction psychiatrist,Other,Korean
+80427,13,Male,Single,Parents,Student,Good,Good,2,1,Child and adolescent psychiatrist,Buddhist,Other
+80431,18,Female,Married,Partner,Student,Very Good,Good,2,1,Child and adolescent psychiatrist,None,Other
+80437,12,Female,Single,Parents,Student,Very Good,Very Good,1,1,Child and adolescent psychiatrist,None,Other
+80459,18,Male,Married,Partner,Student,Excellent,Excellent,1,1,Child and adolescent psychiatrist,None,Other
+80463,12,Female,Single,Parents,Student,Very Good,Good,3,0,Addiction psychiatrist,None,Korean
+80481,18,Male,Married,Partner,Student,Very Good,Very Good,1,0,Child and adolescent psychiatrist,Protestant,Other
+80482,18,Male,Married,Partner,Student,Very Good,Very Good,3,1,Addiction psychiatrist,None,Korean
+80490,18,Female,Married,Partner,Student,Very Good,Very Good,1,1,Child and adolescent psychiatrist,None,Other
+80491,18,Female,Married,Partner,Student,Very Good,Very Good,1,0,Child and adolescent psychiatrist,None,Other
+80492,18,Female,Married,Partner,Student,Excellent,Excellent,2,1,Addiction psychiatrist,None,Korean
+80497,18,Male,Married,Partner,Student,Excellent,Very Good,3,0,Addiction psychiatrist,None,Korean
+80500,14,Female,Single,Parents,Student,Good,Very Good,0,1,Child and adolescent psychiatrist,None,Other
+90015,18,Female,Married,Partner,Student,Good,Good,3,0,Addiction psychiatrist,None,Korean
+90043,18,Male,Married,Partner,Student,Good,Good,0,0,Child and adolescent psychiatrist,None,Other
+90062,12,Female,Single,Parents,Student,Poor,Poor,3,0,Multi-specialty psychiatrist,None,Other
+90071,16,Female,Single,Parents,Student,Good,Fair,2,0,Multi-specialty psychiatrist,None,Other
+1010601,18,Male,Married,Partner,Student,Excellent,Excellent,1,0,Child and adolescent psychiatrist,None,Other
+1010701,18,Female,Married,Partner,Student,Fair,Excellent,2,0,Multi-specialty psychiatrist,None,Other
+1011401,14,Male,Single,Parents,Student,Very Good,Very Good,3,1,Addiction psychiatrist,None,Korean
+1011601,18,Female,Single,Parents,Student,Very Good,Good,3,0,Addiction psychiatrist,None,Korean
+1011801,18,Male,Married,Partner,Student,Very Good,Very Good,1,1,Child and adolescent psychiatrist,None,Other
+1012001,17,Female,Single,Parents,Student,Very Good,Fair,3,1,Multi-specialty psychiatrist,None,Other
+1012501,18,Male,Single,Parents,Student,Very Good,Good,4,0,Addiction psychiatrist,Protestant,Korean
+8043001,14,Female,Single,Parents,Student,Excellent,Good,4,1,Addiction psychiatrist,Catholic,Korean
+8043701,18,Female,Married,Partner,Student,Good,Good,2,1,Child and adolescent psychiatrist,None,Other
+10010926,12,Male,Single,Parents,Student,Very Good,Good,4,1,Addiction psychiatrist,Buddhist,Korean
+10010928,16,Male,Single,Parents,Student,Very Good,Very Good,0,0,Child and adolescent psychiatrist,None,Other
+10010935,12,Male,Single,Parents,Student,Excellent,Excellent,4,1,Addiction psychiatrist,Protestant,Korean
+10010937,11,Male,Single,Parents,Student,Excellent,Excellent,3,1,Addiction psychiatrist,Buddhist,Korean
+10010938,18,Male,Married,Partner,Student,Good,Excellent,4,1,Addiction psychiatrist,None,Korean
+10010941,11,Male,Single,Parents,Student,Excellent,Excellent,2,0,Addiction psychiatrist,Buddhist,Korean
+10010952,17,Female,Single,Parents,Student,Very Good,Excellent,2,1,Child and adolescent psychiatrist,None,Other
+10010969,14,Male,Single,Parents,Student,Good,Very Good,0,0,Child and adolescent psychiatrist,None,Other
+10010970,11,Female,Single,Parents,Student,Very Good,Very Good,0,0,Child and adolescent psychiatrist,None,Other
+10010972,18,Female,Married,Partner,Student,Excellent,Excellent,1,1,Child and adolescent psychiatrist,None,Other
+10010974,16,Female,Single,Parents,Student,Excellent,Excellent,1,1,Child and adolescent psychiatrist,None,Other
+10010990,18,Female,Married,Partner,Student,Fair,Good,4,1,Addiction psychiatrist,Buddhist,Korean
+10010991,18,Female,Married,Partner,Student,Very Good,Excellent,2,1,Child and adolescent psychiatrist,None,Other
+10011005,12,Female,Single,Parents,Student,Excellent,Very Good,0,0,Child and adolescent psychiatrist,None,Other
+10011006,13,Female,Single,Parents,Student,Very Good,Very Good,3,1,Addiction psychiatrist,Protestant,Korean
+10011011,13,Male,Single,Parents,Student,Good,Good,2,1,Child and adolescent psychiatrist,None,Other
+10011012,11,Female,Single,Parents,Student,Excellent,Excellent,4,1,Addiction psychiatrist,Protestant,Korean
+10011013,15,Male,Single,Parents,Student,Very Good,Excellent,0,1,Child and adolescent psychiatrist,None,Other
+10011022,11,Female,Single,Parents,Student,Very Good,Very Good,3,1,Addiction psychiatrist,Protestant,Korean
+10011033,18,Female,Single,Parents,Student,Very Good,Very Good,3,1,Addiction psychiatrist,Protestant,Korean
+10011042,18,Female,Married,Partner,Student,Good,Good,3,0,Addiction psychiatrist,Protestant,Korean
+10011043,17,Male,Single,Parents,Student,Very Good,Excellent,1,0,Child and adolescent psychiatrist,None,Other
+10011046,14,Male,Single,Parents,Student,Fair,Excellent,0,0,Multi-specialty psychiatrist,None,Other
+10011048,13,Male,Single,Parents,Student,Excellent,Excellent,0,1,Child and adolescent psychiatrist,None,Other
+10011062,14,Female,Single,Parents,Student,Very Good,Very Good,3,0,Addiction psychiatrist,Protestant,Korean
+10011068,15,Male,Single,Parents,Student,Excellent,Excellent,0,0,Child and adolescent psychiatrist,None,Other
+10011077,18,Male,Married,Partner,Student,Very Good,Very Good,3,1,Addiction psychiatrist,Protestant,Korean
+10011088,17,Female,Single,Parents,Student,Very Good,Good,3,1,Addiction psychiatrist,Protestant,Korean
+10011090,12,Male,Single,Parents,Student,Excellent,Excellent,4,1,Addiction psychiatrist,None,Korean
+10011093,11,Female,Single,Parents,Student,Very Good,Excellent,2,0,Child and adolescent psychiatrist,None,Other
+10011098,12,Female,Single,Parents,Student,Good,Good,4,1,Addiction psychiatrist,None,Korean
+10011103,15,Female,Single,Parents,Student,Excellent,Excellent,4,1,Addiction psychiatrist,None,Korean
+10011104,18,Female,Single,Parents,Student,Very Good,Good,4,1,Addiction psychiatrist,None,Korean
+10011108,18,Male,Single,Parents,Student,Good,Good,1,1,Child and adolescent psychiatrist,None,Other
+10011109,11,Female,Single,Parents,Student,Excellent,Excellent,0,0,Child and adolescent psychiatrist,None,Other
+10020013,18,Male,Other,Partner,Student,Very Good,Good,2,1,Child and adolescent psychiatrist,None,Other
+10040031,14,Male,Single,Parents,Student,Excellent,Excellent,3,0,Addiction psychiatrist,None,Korean
+10040037,11,Male,Single,Parents,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,None,Other
+10040040,15,Female,Single,Parents,Student,Good,Poor,3,0,Multi-specialty psychiatrist,None,Other
+10040041,13,Female,Single,Parents,Student,Good,Excellent,0,0,Child and adolescent psychiatrist,None,Other
+10040049,18,Female,Single,Parents,Student,Excellent,Excellent,2,1,Addiction psychiatrist,None,Korean
+10040050,14,Female,Single,Parents,Student,Excellent,Poor,2,0,Multi-specialty psychiatrist,None,Other
+10040058,17,Female,Single,Parents,Student,Very Good,Very Good,0,1,Child and adolescent psychiatrist,Protestant,Other
+10040059,11,Male,Single,Parents,Student,Very Good,Very Good,0,0,Child and adolescent psychiatrist,Protestant,Other
+10040067,14,Female,Single,Parents,Student,Good,Good,3,0,Addiction psychiatrist,None,Korean
+10040068,14,Male,Single,Parents,Student,Excellent,Excellent,4,0,Addiction psychiatrist,None,Korean
+10040072,18,Female,Married,Partner,Student,Excellent,Excellent,3,0,Addiction psychiatrist,None,Korean
+10040075,12,Female,Single,Parents,Student,Good,Good,1,0,Child and adolescent psychiatrist,Buddhist,Other
+10040076,11,Female,Single,Parents,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,Protestant,Other
+10040079,18,Male,Single,Parents,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,None,Other
+10040087,12,Female,Single,Parents,Student,Very Good,Good,0,1,Child and adolescent psychiatrist,Buddhist,Other
+10040088,18,Female,Single,Parents,Student,Excellent,Excellent,0,0,Child and adolescent psychiatrist,None,Other
+10040098,12,Male,Single,Parents,Student,Good,Good,0,1,Child and adolescent psychiatrist,None,Other
+10040133,18,Male,Married,Partner,Student,Very Good,Very Good,3,1,Addiction psychiatrist,None,Korean
+10040167,13,Female,Single,Parents,Student,Very Good,Very Good,4,0,Addiction psychiatrist,Muslim,Korean
+10040275,11,Female,Single,Parents,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,Protestant,Other
+10040277,14,Female,Single,Parents,Student,Very Good,Good,2,0,Child and adolescent psychiatrist,None,Other
+10040278,16,Female,Single,Parents,Student,Very Good,Fair,0,1,Child and adolescent psychiatrist,Protestant,Other
+10040284,18,Female,Single,Parents,Student,Fair,Fair,1,0,Multi-specialty psychiatrist,None,Other
+10945000,13,Female,Single,Parents,Student,Excellent,Fair,2,0,Multi-specialty psychiatrist,None,Other
+60040130,18,Male,Married,Partner,Student,Very Good,Very Good,4,0,Addiction psychiatrist,Protestant,Korean
+100011007,17,Male,Single,Parents,Student,Very Good,Very Good,2,1,Child and adolescent psychiatrist,None,Other
+100040034,18,Female,Married,Partner,Student,Very Good,Very Good,3,0,Addiction psychiatrist,None,Korean
+100040108,18,Male,Married,Partner,Student,Good,Good,2,1,Child and adolescent psychiatrist,Protestant,Other
+100040109,13,Female,Single,Parents,Student,Very Good,Very Good,0,0,Child and adolescent psychiatrist,Protestant,Other
+100040116,18,Female,Single,Parents,Student,Excellent,Excellent,2,0,Addiction psychiatrist,None,Korean
+100040126,18,Female,Married,Partner,Student,Very Good,Excellent,3,1,Addiction psychiatrist,None,Korean
+100040128,18,Male,Married,Partner,Student,Good,Very Good,2,1,Child and adolescent psychiatrist,Protestant,Other
+1103500000,18,Female,Married,Partner,Student,Very Good,Very Good,2,0,Child and adolescent psychiatrist,None,Other
